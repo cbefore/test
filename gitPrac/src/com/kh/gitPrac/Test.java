@@ -8,7 +8,12 @@ public class Test {
 
 		System.out.println("11111");
 		System.out.println("貝 繕据!!!");
-
+		System.out.println("abcd");
+		sdasd
+		asdasd
+		
+		けいしけ
+		けいしけ
 	}
 
 }
